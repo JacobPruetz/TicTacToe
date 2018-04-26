@@ -1,7 +1,7 @@
 <?php
-
+	
 	/*
-	* include the Class "Board".
+	* include the Class "Board" + TEST.
 	*/
 	require_once("Board.php");
 	/*
